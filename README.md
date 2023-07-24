@@ -16,7 +16,7 @@ Add your timetable
 Execute the program
 
 # CODE
-```py
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -109,10 +109,11 @@ Execute the program
     ```
 
 # OUPUT
-![OUTPUT](http://mukeshr.student.saveetha.in:8000/static/image/output.png?raw=true)
+### output
+![OUTPUT](timetable.png)
 
-# HTML VALIDATOR
-![HTML VALIDATOR](http://mukeshr.student.saveetha.in:8000/static/image/valid.png?raw=true)
+### HTML 
+![valid](valid.png)
 
 # RESULT 
 the program for creating slot timetable is created successfully
