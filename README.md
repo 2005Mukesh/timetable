@@ -105,10 +105,9 @@ Execute the program
             </table>
         </body>
     </html>
+```
 
-    ```
-
-# OUPUT
+# OUTPUT
 ### output
 ![OUTPUT](timetable.png)
 
